@@ -26,6 +26,7 @@ From command line:
 
 Relevant files created so far:
   * app/index.html
-  * app/scripts/main.js
   * app/styles/main.scss
+  * app/scripts/main.js
+  * app/scripts/dataSet.js  # this is a temporary placeholder
 
