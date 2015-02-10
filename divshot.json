@@ -1,0 +1,6 @@
+{
+  "name": "bholben-gaodp",
+  "root": "dist",
+  "clean_urls": true,
+  "error_page": "error.html"
+}
